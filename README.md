@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 # Usage
 
-python can_reader_refactored.py --input your_can_log.asc --outdir output --can-id 586 --limit 300
+python can_reader.py --input your_can_log.asc --outdir output --can-id 586 --limit 300
 
 Parameters:
 
