@@ -36,7 +36,7 @@ from unknown protocols.
 
 Clone the repository:
 
-git clone https://github.com/YOURNAME/can-reader.git
+git clone https://github.com/ad1osCowboy/can_log_analyzer.git
 cd can-reader
 
 Install dependencies:
